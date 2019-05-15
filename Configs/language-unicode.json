@@ -1,0 +1,32 @@
+{
+	"b'\\xf0\\x9f\\x87\\xba\\xf0\\x9f\\x87\\xb8'": {
+		"unicode": "\\U0001f1fa \\U0001f1f8", 
+		"lang_code": "en", 
+		"language": "English"
+	},
+	"b'\\xf0\\x9f\\x87\\xab\\xf0\\x9f\\x87\\xb7'":{
+		"unicode": "\\U0001f1eb \\U0001f1f7",
+		"lang_code": "fr",
+		"language": "French"
+	},
+	"b'\\xf0\\x9f\\x87\\xa9\\xf0\\x9f\\x87\\xaa'":{
+		"unicode": "\\U0001f1e9 \\U0001f1ea",
+		"lang_code": "de",
+		"language": "German"
+	},
+	"b'\\xf0\\x9f\\x87\\xb7\\xf0\\x9f\\x87\\xba'":{
+		"unicode": "\\U0001f1f7 \\U0001f1fa",
+		"lang_code": "ru",
+		"language": "Russian"
+	},
+	"b'\\xf0\\x9f\\x87\\xb3\\xf0\\x9f\\x87\\xb1'":{
+		"unicode": "\\U0001f1f3 \\U0001f1f1",
+		"lang_code": "nl",
+		"language": "Dutch"
+	},
+	"b'\\xf0\\x9f\\x87\\xb9\\xf0\\x9f\\x87\\xb7'":{
+		"unicode": "\\U0001f1f9 \\U0001f1f7",
+		"lang_code": "tr",
+		"language": "Turkish"
+	}
+}
