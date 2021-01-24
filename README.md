@@ -3,10 +3,10 @@
 Self hosted Translator Bot for Discord!
 
 libraries needed:
-discord.py (this bot is made with the old discord.py, not the new rewrite section)
-aiohttp
-googletrans
-dataIO (or any oder json library)
+discord.py (this bot is made with the old discord.py, not the new rewrite section),
+aiohttp,
+googletrans,
+dataIO (or any other json library)
 
 commands:
 !translate
